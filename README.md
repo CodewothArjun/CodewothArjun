@@ -19,5 +19,36 @@ int main()
    return 0;
  }
    
+Transpose Matrix
 
-  
+#include<stdio.h>
+#include<conio.h>
+int main() {
+    int i,j,r,c;
+    int mat[20],tmat[2];
+    printf("Enter number of rows and column: ");
+    scanf("%d %d",&r,&c);
+
+    for(i=0; i<r; i++) {
+        for(j=0; j<c; j++) {
+            printf("mat[%d][%d]",i+1,j+1);
+            scanf("%d",&mat[i][j]);
+        }
+    }
+
+    for(i=0; i<r; i++) {
+        for(j=0; j<c; j++) {
+            tmat[j][i]=mat[i][j];
+
+        }
+    }
+    for(i=0; i<r; i++) {
+        for(j=0; j<c; j++) {
+            printf("%d",tmat[i][j]);
+        }
+        printf("\n");
+    }
+    return 0;
+
+}
+
