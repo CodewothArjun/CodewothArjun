@@ -1,88 +1,38 @@
-- 👋 Hi, I’m @CodewothArjun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://codewotharjun.io)
 
+<h1 align="center">Hi 👋, I'm Arjun Rokka</h1>
+<h3 align="center">A passionate frontend developer from Nepal.</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Programming with C language
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewotharjun&label=Profile%20views&color=0e75b6&style=flat" alt="codewotharjun" /> </p>
 
-#include<stdio.h>
-#include<conio.h>
-int main()
- {
-   int a,b,sum;
-   printf("Enter two numbers:");
-   scanf("%d,%d",&a,&b");
-   sum=a+b;
-   printf("sum of number=%d", sum);
-   return 0;
- }
-   
-Transpose Matrix
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-#include<stdio.h>
-#include<conio.h>
-int main() {
-    int i,j,r,c;
-    int mat[20],tmat[2];
-    printf("Enter number of rows and column: ");
-    scanf("%d %d",&r,&c);
+- 🔭 I’m currently working on **HTML,CSS,JS**
 
-    for(i=0; i<r; i++) {
-        for(j=0; j<c; j++) {
-            printf("mat[%d][%d]",i+1,j+1);
-            scanf("%d",&mat[i][j]);
-        }
-    }
+- 🌱 I’m currently learning **React**
 
-    for(i=0; i<r; i++) {
-        for(j=0; j<c; j++) {
-            tmat[j][i]=mat[i][j];
+- 👨‍💻 All of my projects are available at [https://github.com/CodewothArjun/My-Website](https://github.com/CodewothArjun/My-Website)
 
-        }
-    }
-    for(i=0; i<r; i++) {
-        for(j=0; j<c; j++) {
-            printf("%d",tmat[i][j]);
-        }
-        printf("\n");
-    }
-    return 0;
+- 💬 Ask me about **C programming**
 
-}
+- 📫 How to reach me **dolkhaliarjun9800@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/arjunrokka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arjunrokka" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dolkhaliarjun9800@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dolkhaliarjun9800@gmail.com" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dolkhaliarjun9800@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dolkhaliarjun9800@gmail.com" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/dolkhaliarjun9800@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dolkhaliarjun9800@gmail.com" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dolkhaliarjun9800@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dolkhaliarjun9800@gmail.com" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/dolkhaliarjun9800@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="dolkhaliarjun9800@gmail.com" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-While	Do VS While
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewotharjun&show_icons=true&locale=en&layout=compact" alt="codewotharjun" /></p>
 
-It checks the condition first and then executes statement(s)	This loop will execute the statement(s) at least once, then the condition is checked.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewotharjun&show_icons=true&locale=en" alt="codewotharjun" /></p>
 
-While loop allows initialization of counter variables before starting the body of a loop.	Do while loop allows initialization of counter variables before and after starting the body of a loop.
-
-It is an entry controlled loop.	It is an exit controlled loop.
-
-We do not need to add a semicolon at the end of a while condition.	We need to add a semicolon at the end of the while condition.
-
-In case of a single statement, we do need to add brackets.	Brackets are always needed.
-
-In this loop, the condition is mentioned at the starting of the loop.	The loop condition is specified after the block is executed.
-
-Statement(s) can be executed zero times if the condition is false.	Statement is executed at least once.
-
-Generally while loop is written as:
-
-while (condition) {
-
-Statements; // loop body
-
-}
-
-Generally do while loop is written as:
-
-do{
-
-Statements; //loop body
-
-} while (condition);
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewotharjun&" alt="codewotharjun" /></p>
