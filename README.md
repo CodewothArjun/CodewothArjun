@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/CodewothArjun/My-Website](https://github.com/CodewothArjun/My-Website)
+- 👨‍💻 All of my projects are available at [https://codewotharjun.github.io/My-Portfolio/](https://codewotharjun.github.io/My-Portfolio/)
 
 - 💬 Ask me about **C programming**
 
