@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://codewotharjun.github.io/My-Portfolio/](https://codewotharjun.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://codewotharjun.github.io/My-Profile/]
 
 - 💬 Ask me about **C programming**
 
